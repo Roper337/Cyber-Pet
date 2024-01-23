@@ -1,0 +1,28 @@
+body {
+    background-color: #8fbce6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #gameboy {
+    background-color: #404040;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+  }
+  
+  #stats {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
